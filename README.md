@@ -10,7 +10,7 @@ Analyzed 15,000 e-commerce sessions across the full purchase funnel (view → ca
 
 - 15,000 simulated sessions, ~24,700 events (realistic drop-off rates modeled by device and traffic source)
 - Fields: `session_id`, `user_id`, `device`, `traffic_source`, `region`, `event_stage`, `event_timestamp`, `order_value`
-- Generated to mimic real Shopify/GA-style event tracking, since raw funnel-level data is rarely public
+- Generated to mimic real Shopify/GA-style event tracking, since raw funnel-level data is rarely public.
 
 ## Tools used
 
