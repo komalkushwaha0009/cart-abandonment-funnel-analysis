@@ -54,7 +54,8 @@ If mobile matched desktop's checkout completion rate, that's an estimated **247 
 
 ## Charts
 
-![Overall Funnel](<img width="1200" height="750" alt="chart_1_overall_funnel" src="https://github.com/user-attachments/assets/a4a51029-64af-4eb4-ae97-bc99df0cd3cd" />
-)
-![Device Conversion](chart_2_device_conversion.png)
-![Traffic Source Conversion](chart_3_traffic_source_conversion.png)
+<img width="1200" height="750" alt="chart_1_overall_funnel" src="https://github.com/user-attachments/assets/ae3c8f77-6872-46a4-813c-318747ba75a4" />
+<img width="1200" height="750" alt="chart_2_device_conversion" src="https://github.com/user-attachments/assets/270740cc-89a9-4cc8-bbd0-f3dafe05b554" />
+<img width="1200" height="750" alt="chart_3_traffic_source_conversion" src="https://github.com/user-attachments/assets/2f5fba49-3b36-47a6-92ec-ad772d68d486" />
+
+
