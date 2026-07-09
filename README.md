@@ -14,7 +14,7 @@ Analyzed 15,000 e-commerce sessions across the full purchase funnel (view → ca
 
 ## Tools used
 
-- **SQL** (SQLite) — funnel conversion, stage drop-off, segment analysis, revenue impact modeling
+- **SQL** — funnel conversion, stage drop-off, segment analysis, revenue impact modeling
 - **Python** (pandas, matplotlib) — data generation and visualization
 
 ## Key findings
